@@ -18,5 +18,15 @@ namespace Tests
 
             CollectionAssert.AreEqual(_sortedArray, sortedArray);
         }
+
+        [Test]
+        public void Can_Sort_Via_Insertion_Sorting()
+        {
+            var insertionSorter = new InsertionSort();
+
+            var sortedArray = insertionSorter.Run(_initialArray);
+
+            CollectionAssert.AreEqual(_sortedArray, sortedArray);
+        }
     }
 }
