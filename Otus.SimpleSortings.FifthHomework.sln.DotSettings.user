@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=39fd8879_002Dac45_002D4340_002Daf98_002D874f8f55f0db/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Can_Sort_Via_Bubble_Sorting #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::401CC045-9CA5-43FA-8C09-07DF520A4AFB::.NETCoreApp,Version=v3.1::Tests.Tests.Can_Sort_Via_Bubble_Sorting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a62cedf2_002Dc898_002D471d_002D885f_002Daab8dd910860/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Can_Sort_Via_Bubble_Sorting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::401CC045-9CA5-43FA-8C09-07DF520A4AFB::.NETCoreApp,Version=v3.1::Tests.Tests.Can_Sort_Via_Bubble_Sorting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
