@@ -7,11 +7,13 @@
             for (var i = 0; i < array.Length; i++)
             {
                 var current = array[i];
-                var j = i - 1;
-                while (j >= 0 && array[j] > current)
+                int j;
+                for (j = i - 1; j >= 0; j--)
                 {
+                    if (array[j] < current)
+                        break;
+
                     array[j + 1] = array[j];
-                    j--;
                 }
 
                 array[j + 1] = current;
