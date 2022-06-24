@@ -1,5 +1,10 @@
 ﻿namespace Otus.SimpleSortings.FifthHomework.Logic
 {
+    /// <summary>
+    /// За каждый проход элементы последовательно сравниваются попарно и,
+    /// если порядок в паре неверный, выполняется перестановка элементов.
+    /// Сложность 0(n^2), Неадаптивный, Стабильный, Неонлайн.
+    /// </summary>
     public class BubbleSort
     {
         public int[] Run(int[] array)
